@@ -1,0 +1,1 @@
+kubectl run tmp --image=alpine/curl:8.5.0 --restart=Never -it --rm -- curl -sI nginx.default.svc.cluster.local
