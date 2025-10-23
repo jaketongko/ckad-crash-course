@@ -1,0 +1,40 @@
+01-container
+02-pod
+03-job
+04-cronjob
+05-ephemeral-volume
+06-persistentvolume-static-provisioning
+07-init-container
+08-adapter-pattern
+09-ambassador-pattern
+10-labels-annotations-cli
+# 11-deployment-rolling-update
+# 12-deployment-horizontal-pod-autoscaler
+# 13-deployment-blue-green
+# 14-helm-consume-chart
+15-helm-build-chart
+# 16-kustomize-secret-patch
+17-api-deprecation
+18-pod-probes
+19-pod-metrics
+20-troubleshooting-pod
+21-crd
+22-rbac-serviceaccount
+23-resource-requests-limits
+24-resourcequota
+25-limitrange
+26-configmap
+27-secret
+28-securitycontext
+29-service
+30-troubleshooting-service
+31-ingress
+32-networkpolicy
+helm-demo
+kustomize-demo
+deployment-demo.md
+deployment-demo1.yaml
+deployment-demo2.yaml
+helm-demo.md
+kodekloud.md
+slides.pdf

@@ -1,0 +1,5 @@
+secretGenerator:
+- name: creds
+  namespace: q71
+  files:
+  - basic-auth.txt
