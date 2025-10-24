@@ -31,11 +31,5 @@ solution
 30-troubleshooting-service
 31-ingress
 32-networkpolicy
-helm-demo
-kustomize-demo
-deployment-demo.md
-deployment-demo1.yaml
-deployment-demo2.yaml
-helm-demo.md
 kodekloud.md
 slides.pdf
