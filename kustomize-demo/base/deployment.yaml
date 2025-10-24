@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kustomize-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kustomize
+  template:
+    metadata:
+      labels:
+        app: kustomize
+    spec:
+      containers:
+      - image: busybox
+        name: nginx
+        command: [ "sleep", "3600" ]
